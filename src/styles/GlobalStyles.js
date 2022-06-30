@@ -7,6 +7,10 @@ html, body {
     color: white;
     font-family: Helvetica, Arial, sans-serif;
     margin: 0;
-    padding: 25px 75px;
+    padding: 0;
+
+    @media (min-width: 768px) {
+        padding: 25px 75px;
+    }
 }
 `

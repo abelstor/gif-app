@@ -7,6 +7,7 @@ border-radius: 4px;
 color: white;
 padding: 15px 32px;
 text-align: center;
+max-width: 300px;
 text-decoration: none;
 display: inline-block;
 font-size: 16px;
