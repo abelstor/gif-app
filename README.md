@@ -3,3 +3,4 @@
 ## React + Vite
 
 - Css Styles: styled-components
+- Tests: Jest

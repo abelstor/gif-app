@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-import { GifApp } from './GifApp'
+import { GifApp } from '@/GifApp'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

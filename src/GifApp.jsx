@@ -1,6 +1,6 @@
-import { GifList } from './GifList'
+import { GifList } from '@/GifList'
 
-import { GlobalStyles } from './styles'
+import { GlobalStyles } from '@/styles'
 
 export const GifApp = () => {
 

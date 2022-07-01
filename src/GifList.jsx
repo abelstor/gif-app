@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
-import { AddCategory, GifGrid } from './components'
-import { Container } from './styles/'
+import { AddCategory, GifGrid } from '@/components'
+import { Container } from '@/styles/'
 
 export const GifList = () => {
 

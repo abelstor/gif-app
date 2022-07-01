@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { Button, Form, Input } from '../styles'
+import { Button, Form, Input } from '@/styles'
 
 export const AddCategory = ({ onNewCategory }) => {
 
